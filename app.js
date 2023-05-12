@@ -1,0 +1,3 @@
+let variable = '';
+
+const newVarliable = '';
