@@ -1,0 +1,6 @@
+1. Git branch <branch_nam> creates a new branch
+2. Fast-forward is when changes to the branches were done sequentially and Git can easily tell how to merge. While recursive is when the changes are not sequential and requires a more complex algorithm to figure out how to merge them.
+3. Git checkout <branch_name>
+4. Git branch -D <branch_name>
+5. Merge conflicts happen when two more more changes happen to a single file at the same time that conflict with each other
+
